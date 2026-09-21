@@ -43,7 +43,7 @@ qc.measure_all()
 状态向量：[0.7071, 0, 0, 0.7071]，对应 1/√2(|00⟩ + |11⟩)
 
 实验2：GHZ态
-电路：
+电路：s
 
 python
 qc = QuantumCircuit(3)
